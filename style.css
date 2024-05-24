@@ -1,0 +1,104 @@
+body{
+    font-family: 'Times New Roman';
+}
+.color{
+    margin-left: 10px;
+    font-size: 100px;
+    color: blue;
+}
+header{
+    height: 600px;
+    background-color: rgb(4, 4, 57);
+}
+.dark {
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 40px;
+    color: white;
+}
+.fnum{
+    margin-left: 20px;
+    font-size: 40px;
+    color: white;
+    margin-bottom: 40px;
+}
+.here{
+    margin-left: 20px;
+    font-size: 40px;
+    color: white;
+}.pxbold{
+    margin-left: 20px;
+    font-size: 100px;
+    color: white;
+    margin-bottom: 50px;
+}
+.secondary{
+    margin-left: 20px;
+    font-size: 40px;
+    color: white;
+}
+.pxeb{
+    margin-left: 20px;
+    font-size: 40px;
+    color: white;
+    margin-bottom: 50px;
+}
+.header-logo{
+    margin-left: 20px;
+    font-size: 40px;
+    color: white;
+}
+.pxfff{
+    margin-left: 20px;
+    font-size: 40px;
+    color: white;
+}
+.button-color{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 40px;
+    color: black;
+}
+.onef{
+    margin-left: 20px;
+    font-size: 40px;
+    color: blue;
+}
+.infor{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 40px;
+    color: black;
+}
+.px-extra{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 100px;
+    color: black;
+}
+footer{
+    height: 300px;
+    background-color: rgb(224, 199, 199);
+}
+.quote{
+    margin-left: 20px;
+    font-size: 40px;
+    color: black;
+}
+.eee{
+    margin-left: 20px;
+    font-size: 40px;
+    color: black;
+    margin-bottom: 20px;
+}
+.quote-text{
+    margin-left: 20px;
+    font-size: 40px;
+    color: black;
+}
+.light{
+    margin-left: 20px;
+    font-size: 40px;
+    color: black;
+}
+}
